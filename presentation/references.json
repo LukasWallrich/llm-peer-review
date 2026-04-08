@@ -1,0 +1,97 @@
+{
+  "bornmann2010": {
+    "authors": "Bornmann, L., Mutz, R., & Daniel, H.-D.",
+    "year": 2010,
+    "title": "A reliability-generalization study of journal peer reviews: A multilevel meta-analysis of inter-rater reliability and its determinants",
+    "journal": "PLoS ONE",
+    "volume": "5",
+    "issue": "12",
+    "pages": "e14331",
+    "doi": "10.1371/journal.pone.0014331"
+  },
+  "beygelzimer2023": {
+    "authors": "Beygelzimer, A., Dauphin, Y., Liang, P., & Vaughan, J. W.",
+    "year": 2023,
+    "title": "Has the machine learning review process become more arbitrary as the field has grown? The NeurIPS 2021 consistency experiment",
+    "url": "https://arxiv.org/abs/2306.03262"
+  },
+  "thakkar2026": {
+    "authors": "Thakkar, N., Yuksekgonul, M., Silberg, J., Garg, A., Peng, N., Sha, F., Yu, R., Vondrick, C., & Zou, J.",
+    "year": 2026,
+    "title": "A large-scale randomized study of large language model feedback in peer review",
+    "journal": "Nature Machine Intelligence",
+    "volume": "8",
+    "issue": "3",
+    "pages": "326–336",
+    "doi": "10.1038/s42256-026-01188-x"
+  },
+  "hultgren2024": {
+    "authors": "Hultgren, A. E., Patras, N. M. F., & Hicks, J.",
+    "year": 2024,
+    "title": "Blinding reduces institutional prestige bias during initial review of applications for a young investigator award",
+    "journal": "eLife",
+    "volume": "13",
+    "pages": "e92339",
+    "doi": "10.7554/eLife.92339"
+  },
+  "dumlao2025": {
+    "authors": "Zumel Dumlao, J. M., & Teplitskiy, M.",
+    "year": 2025,
+    "title": "Geographical diversity of peer reviewers shapes author success",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "122",
+    "issue": "33",
+    "doi": "10.1073/pnas.2507394122"
+  },
+  "howell2025": {
+    "authors": "Howell, A., Wang, J., Du, L., Melkers, J., & Shah, V.",
+    "year": 2025,
+    "title": "Prestige over merit: An adapted audit of LLM bias in peer review",
+    "url": "https://arxiv.org/abs/2509.15122"
+  },
+  "doshi2024": {
+    "authors": "Doshi, A. R., & Hauser, O. P.",
+    "year": 2024,
+    "title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+    "journal": "Science Advances",
+    "volume": "10",
+    "issue": "28",
+    "pages": "eadn5290",
+    "doi": "10.1126/sciadv.adn5290"
+  },
+  "hao2026": {
+    "authors": "Hao, Q., Xu, F., Li, Y., & Evans, J.",
+    "year": 2026,
+    "title": "Artificial intelligence tools expand scientists' impact but contract science's focus",
+    "journal": "Nature",
+    "volume": "649",
+    "issue": "8099",
+    "pages": "1237–1243",
+    "doi": "10.1038/s41586-025-09922-y"
+  },
+  "russo2025": {
+    "authors": "Russo, G., Horta Ribeiro, M., Davidson, T. R., Veselovsky, V., & West, R.",
+    "year": 2025,
+    "title": "The AI Review Lottery: Widespread AI-assisted peer reviews boost paper scores and acceptance rates",
+    "journal": "Proceedings of the ACM on Human-Computer Interaction",
+    "volume": "9",
+    "issue": "7",
+    "pages": "1–28",
+    "doi": "10.1145/3757667"
+  },
+  "shaw2026": {
+    "authors": "Shaw, S. D., & Nave, G.",
+    "year": 2026,
+    "title": "Thinking-fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender",
+    "url": "https://ssrn.com/abstract=6097646"
+  },
+  "liang2024": {
+    "authors": "Liang, W., Zhang, Y., Cao, H., Wang, B., Ding, D. Y., Yang, X., Vodrahalli, K., He, S., Smith, D. S., Yin, Y., McFarland, D. A., & Zou, J.",
+    "year": 2024,
+    "title": "Can large language models provide useful feedback on research papers? A large-scale empirical analysis",
+    "journal": "NEJM AI",
+    "volume": "1",
+    "issue": "8",
+    "doi": "10.1056/AIoa2400196"
+  }
+}
